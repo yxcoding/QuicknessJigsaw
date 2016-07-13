@@ -388,6 +388,7 @@ public class GamePanel extends RelativeLayout implements View.OnClickListener
         animLayout = null;
         gameSuccess = false;
         imageSlices = null;
+        step = 0;
         // checkTimeEnable();
         gridNum++;
         level++;
